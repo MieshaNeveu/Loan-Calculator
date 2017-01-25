@@ -57,3 +57,18 @@ A = P + (P*r*t)
 ## Copyright
 
 © DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
+
+USA Web Cash( https://www.usawebcash.com/illinois-installment-loans ) is als working with us that is a payday loans provider company and you can get their services online. They helped us to create a loan calculator with Java coding and the code is described below:
+
+// Display details of the loan
+ 
+      System.out.println("Loan Amount: "+
+         currencyFormat.format(loanAmount));
+      System.out.println("Loan Term: "+
+         termInYears+" years");
+      System.out.println("Interest Rate: "+
+         interestFormat.format(interestRate));
+      System.out.println("Monthly Payment: "+
+         currencyFormat.format(monthlyPayment));
+ 
+   }
